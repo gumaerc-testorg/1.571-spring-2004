@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -32,7 +33,7 @@ Connor, Jerome J. _Introduction to Structural Motion Control_. Prentice Hall, 20
 Reference
 ---------
 
-Connor, Jerome J. _[Analysis of Structural Member Systems]({{< baseurl >}}/pages/readings)_. Ronald Press, 1976.
+Connor, Jerome J. _{{% resource_link c5b50cac-24f1-135a-3b41-2c12c6cef444 "Analysis of Structural Member Systems" %}}_. Ronald Press, 1976.
 
 Grading
 -------
