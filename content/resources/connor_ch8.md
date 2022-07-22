@@ -6,6 +6,7 @@ file: /courses/1-571-structural-analysis-and-control-spring-2004/afb96362cb5ba99
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: connor_ch8.pdf
 uid: afb96362-cb5b-a999-31b3-abe30147cf0e
 ---
 Part 2, Chapter 8 of the reference textbook for this course, Analysis of Structural Member Systems (Ronald Press, 1976).
-

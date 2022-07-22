@@ -5,6 +5,7 @@ file: /courses/1-571-structural-analysis-and-control-spring-2004/4e89c74d7b7b3d9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: problemset3.pdf
 uid: 4e89c74d-7b7b-3d95-b303-b24f09714c5a
 ---
 Problem set assignment.
-

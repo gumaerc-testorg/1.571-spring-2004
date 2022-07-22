@@ -6,6 +6,7 @@ file: /courses/1-571-structural-analysis-and-control-spring-2004/1558772e6dacd7d
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: connor_ch17.pdf
 uid: 1558772e-6dac-d7db-7216-70d51a8bf3e5
 ---
 Part 4, Chapter 17 of the reference textbook for this course, Analysis of Structural Member Systems (Ronald Press, 1976).
-
