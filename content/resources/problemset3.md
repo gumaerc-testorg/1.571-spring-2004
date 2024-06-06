@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set assignment.
 file: /courses/1-571-structural-analysis-and-control-spring-2004/4e89c74d7b7b3d95b303b24f09714c5a_problemset3.pdf
+file_size: 78236
 file_type: application/pdf
 learning_resource_types:
 - Assignments

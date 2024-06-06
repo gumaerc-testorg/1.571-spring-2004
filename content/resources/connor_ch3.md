@@ -3,6 +3,7 @@ content_type: resource
 description: Part 1, Chapter 3 of the reference textbook for this course, Analysis
   of Structural Member Systems (Ronald Press, 1976).
 file: /courses/1-571-structural-analysis-and-control-spring-2004/cea5e01ac9d6463fb1e16fe4297ff7ac_connor_ch3.pdf
+file_size: 903253
 file_type: application/pdf
 learning_resource_types:
 - Readings
