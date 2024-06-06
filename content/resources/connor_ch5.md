@@ -3,6 +3,7 @@ content_type: resource
 description: Part 1, Chapter 5 of the reference textbook for this course, Analysis
   of Structural Member Systems (Ronald Press, 1976).
 file: /courses/1-571-structural-analysis-and-control-spring-2004/6e175fe4792ee9f2bd7c06423bcb111e_connor_ch5.pdf
+file_size: 690937
 file_type: application/pdf
 learning_resource_types:
 - Readings
