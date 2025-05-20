@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set assignment.
-file: /ol-ocw-studio-app/courses/1-571-structural-analysis-and-control-spring-2004/1f04f95df6d994d9f30d30660552eb5e_problemset1.pdf
+file: /courses/1-571-structural-analysis-and-control-spring-2004/1f04f95df6d994d9f30d30660552eb5e_problemset1.pdf
 file_size: 91075
 file_type: application/pdf
 learning_resource_types:

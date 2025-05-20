@@ -2,7 +2,7 @@
 content_type: resource
 description: Part 3, Chapter 14 of the reference textbook for this course, Analysis
   of Structural Member Systems (Ronald Press, 1976).
-file: /ol-ocw-studio-app/courses/1-571-structural-analysis-and-control-spring-2004/b05636d2b1614a858276113f6bf4c99e_connor_ch13.pdf
+file: /courses/1-571-structural-analysis-and-control-spring-2004/b05636d2b1614a858276113f6bf4c99e_connor_ch13.pdf
 file_size: 2962215
 file_type: application/pdf
 learning_resource_types:
