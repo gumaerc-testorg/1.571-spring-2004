@@ -2,7 +2,7 @@
 content_type: resource
 description: Part 2, Chapter 9 of the reference textbook for this course, Analysis
   of Structural Member Systems (Ronald Press, 1976).
-file: /courses/1-571-structural-analysis-and-control-spring-2004/60fdc965f5f4cde1a100743ef76f7c58_connor_ch9.pdf
+file: /ol-ocw-studio-app/courses/1-571-structural-analysis-and-control-spring-2004/60fdc965f5f4cde1a100743ef76f7c58_connor_ch9.pdf
 file_size: 945657
 file_type: application/pdf
 learning_resource_types:
